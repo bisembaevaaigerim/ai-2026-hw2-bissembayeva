@@ -10,7 +10,10 @@
 State which AI tools you used and for what. Expected and fine; undisclosed use
 is not. If you used a model to help you draft a prompt, say which prompt.
 
->
+>I used Claude mainly as a coding assistant. It helped me write and fix parts of the code. It also helped me format all the tables and improve the prompts, especially the prompt for the last lab. 
+> I also used ChatGPT to explain some tasks and functions that I did not understand at first. I used it mainly to better understand the code and the requirements. 
+> I used these tools as assistants, but I ran the code and checked the results myself.
+
 
 ---
 

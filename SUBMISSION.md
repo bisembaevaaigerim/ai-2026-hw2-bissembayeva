@@ -504,8 +504,6 @@ computed in code"), and the model followed that rule
 
 ### Part 3 — written answers
 
-### Part 3 — written answers
-
 **1. Which rule did you have to add, and what broke without it?** Name the
 story that forced it.
 
